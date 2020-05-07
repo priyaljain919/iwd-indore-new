@@ -1,0 +1,39 @@
+[{
+        "name": "Dharmesh Vaya",
+        "company": "Solutions Architect - Google Developer Expert",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/dharmeshvaya/",
+        "github": "",
+        "profileImage": "user-icon.png",
+        "bio": "Going Serverless on Google Cloud"
+    },
+    {
+        "name": "Sonam Daultani",
+        "company": "Module lead in Impetus Technologies",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/sonamdaultani/",
+        "github": "",
+        "profileImage": "sonam.jpeg",
+        "bio": "Supervised learning and it's applications"
+    },
+
+    {
+        "name": "Anubha Maneshwar",
+        "company": "Founder at  GirlScript",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/anubhamane/",
+        "github": "",
+        "profileImage": "anubha.jpg",
+        "bio": "How to become a Kardashian in tech?"
+    },
+    {
+        "name": "Shreya Garhwal",
+        "company": "Software Engineer at Yash Technologies Pvt Ltd",
+        "twitter": "",
+        "linkedin": "https://www.linkedin.com/in/shreya-garhwal/",
+        "github": "",
+        "profileImage": "shreya.jpg",
+        "bio": "Microsoft Azure"
+    }
+
+]
